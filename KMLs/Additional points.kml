@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Additional points</name>
+	<open>1</open>
+	<Placemark>
+		<name>site 1_Area of Interest 1</name>
+		<styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						39.392508,-4.443045,0 39.392516,-4.443005,0 39.392468,-4.442999,0 39.392463,-4.443041,0 39.392508,-4.443045,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>site 1_hotspot point 1</name>
+		<styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+		<Point>
+			<coordinates>39.392487,-4.443027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>site 3 (line 2)</name>
+		<styleUrl>#line-FFFF00-2000-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				39.409044,-4.430522,0 39.409945,-4.431634,0 39.410153,-4.432365,0 39.410375,-4.432974,0 39.409162,-4.435118,0 39.408982,-4.432905,0 39.408462,-4.432781,0 39.408246,-4.431241,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>site 3 (line 1)</name>
+		<styleUrl>#line-FFFF00-2000-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				39.404267,-4.434151,0 39.405583,-4.435202,0 39.404519,-4.435731,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>site 4 (new transect 1)</name>
+		<styleUrl>#line-FFFF00-2000-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				39.404497,-4.435783,0 39.405557,-4.436491,0 39.406115,-4.43679,0 39.407948,-4.438498,0 39.408678,-4.439686,0 39.407814,-4.439412,0 39.409612,-4.438349,0 39.409678,-4.437627,0 39.409306,-4.436626,0 39.40917,-4.435116,0 39.407848,-4.436332,0 39.407107,-4.435044,0 39.406937,-4.434596,0 39.405621,-4.43521,0 39.405079,-4.436991,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>site 3 (new transect)</name>
+		<styleUrl>#line-FFFF00-2000-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				39.40791,-4.440635,0 39.406728,-4.439803,0 39.406245,-4.439098,0 39.405876,-4.438485,0 39.406608,-4.43778,0 39.408292,-4.437855,0 39.409123,-4.439712,0 39.409055,-4.440283,0 39.408602,-4.44039,0 39.40843,-4.440465,0 39.407773,-4.439916,0 39.406708,-4.440348,0 39.406695,-4.440356,0 39.406722,-4.440264,0 39.406744,-4.440242,0 39.406742,-4.440226,0 39.406768,-4.440185,0 39.40681,-4.440142,0 39.407366,-4.439208,0 39.406908,-4.439249,0 39.405686,-4.439621,0 39.405737,-4.438099,0 39.404841,-4.437185,0 39.403698,-4.436465,0 39.403065,-4.435952,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>site 5_demarc 1</name>
+		<styleUrl>#line-FFD600-2000-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				39.41488,-4.421468,0 39.42296,-4.421474,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>site 5_demarc 2</name>
+		<styleUrl>#line-FFFF00-2000-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				39.417241,-4.413205,0 39.42519,-4.413191,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Folder>
+</kml>

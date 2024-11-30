@@ -1,7 +1,7 @@
 import pandas as pd
 from xml.etree import ElementTree as ET
 
-filename = 'Object ID 36'
+filename = 'site 1_Area of Interest 1'
 # Load the KML file
 with open(filename+'.kml', 'r') as file:
     tree = ET.parse(file)
