@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>Object ID 28</name>
+	<styleUrl>#line-0000FF-1000-nodesc</styleUrl>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<LineString>
+		<tessellate>1</tessellate>
+		<coordinates>
+			39.404403,-4.433943,0 39.408549,-4.436092,0 39.408835,-4.437509,0 39.409455,-4.440587,0 
+		</coordinates>
+	</LineString>
+</Placemark>
+</kml>

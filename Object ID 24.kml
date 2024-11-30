@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>Object ID 24</name>
+	<styleUrl>#poly-0000FF-1000-89-nodesc</styleUrl>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					39.42615,-4.40099,0 39.422036,-4.400882,0 39.421567,-4.403313,0 39.423847,-4.40327,0 39.426128,-4.403485,0 39.42615,-4.40099,0 
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+</kml>
